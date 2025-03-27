@@ -1,6 +1,6 @@
 # Flutter Codelab - Write Your First Flutter App
 
-This repository contains the code developed by following the official Google Flutter Codelab "[Write Your First Flutter App, part 1](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)".
+This repository contains the code developed by following the official Google Flutter Codelab "[Write Your First Flutter App](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)".
 
 This project was completed as an introductory exercise to learn the basics of Flutter development.
 
